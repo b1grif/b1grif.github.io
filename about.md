@@ -10,4 +10,4 @@ appliances like f5, Cisco and Brocade switches and routers, Cisco, Fortigate and
 
 ### Contact me
 
-[email@domain.com](mailto:griffiths.bill.1@gmail.com)
+[griffiths.bill.1@gmail.com](mailto:griffiths.bill.1@gmail.com)
