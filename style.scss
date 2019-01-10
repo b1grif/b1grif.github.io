@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
+//	background: $white;
+  background: $darkGray;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+//  color: $darkGray;
+  color: $white;
 }
 
 .container {
