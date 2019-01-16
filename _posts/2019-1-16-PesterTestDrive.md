@@ -3,7 +3,6 @@ layout: post
 title: Pester Testdrive
 ---
 
-### Pester TestDrive
 I had one of those light bulb moments today. I've been struggling through creating Pester tests off and on for a while 
 now and one of the sticking points was TestDrive. Well I dont know if I didnt read the documentation close enough or 
 what but I realized today that maybe Pester was creating the temp drive but my tests were failing because of the folder 
